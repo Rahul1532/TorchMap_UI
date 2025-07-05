@@ -38,7 +38,7 @@ function App() {
 
     setIsUploading(true);
     const formData = new FormData();
-    formData.append("file", file);
+    formData.append("CSV", file); 
 
     try {
       const response = await axios.post(`${API}/upload-csv`, formData, {
