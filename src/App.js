@@ -185,7 +185,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
-                  TorchMap
+                  Nimbus
                 </h1>
                 <p className="text-sm text-slate-400"> Mapped Data Validator | Upload, review, and export your data with ease</p>
               </div>
